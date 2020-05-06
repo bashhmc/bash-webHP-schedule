@@ -134,7 +134,7 @@
   -webkit-transition:	all 0.6s ease;
 	transition:		all 0.6s ease;
 }
-	.flyer:active .flyer-TP{
+.flyer:active .flyer-TP{
   opacity: 1;
   padding-top:10px;
 }
@@ -180,6 +180,12 @@
   -webkit-transition:	all 0.6s ease;
 	transition:		all 0.6s ease;
 }
+
+.flyer:active .flyer-TP{
+  opacity: 1;
+  padding-top:10px;
+}
+
 
 /* 共通footer ---------------------------------------------------------------*/
 .footer-icons{
