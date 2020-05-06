@@ -117,7 +117,8 @@
   text-align: center;
 }
 
-.flyer img{
+.
+	img{
   width: 250px;
 }
 
@@ -133,6 +134,11 @@
   -webkit-transition:	all 0.6s ease;
 	transition:		all 0.6s ease;
 }
+	.flyer:active .flyer-TP{
+  opacity: 1;
+  padding-top:10px;
+}
+	
 }
 @media (max-width:380px) {
 /*-- schedule--------------------------------------------------------------- */
