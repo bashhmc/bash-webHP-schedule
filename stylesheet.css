@@ -284,19 +284,6 @@ contents-top{
 	transition:		all 0.6s ease;
 }
 
-.flyer-TP-smapho{
-  display: none;
-  background-color: rgba(0,0,0,0.4);
-  position: absolute;
-  top:0px;
-  left: 23px;
-  color: white;
-  font-size: 35px;
-  font-weight: bold;
-  height: 502.5px;
-  width:90%;
-}
-
 .flyer:hover .flyer-TP{
   opacity: 1;
   padding-top:10px;
