@@ -117,9 +117,8 @@
   text-align: center;
 }
 
-#flyer-input:checked ~.flyer-TP{
-  opacity: 1;
-  padding-top:10px;
+#flyer-input:checked ~.flyer-TP-smapho{
+  display: inline-block;;
 }
 
 .img{
@@ -168,9 +167,8 @@
   text-align: center;
 }
 
-#flyer-input:checked ~.flyer-TP{
-  opacity: 1;
-  padding-top:10px;
+#flyer-input:checked ~.flyer-TP-smapho{
+  display: inline-block;;
 }
 
 .flyer img{
