@@ -117,8 +117,12 @@
   text-align: center;
 }
 
-.
-	img{
+#flyer-input:checked ~.flyer-TP{
+  opacity: 1;
+  padding-top:10px;
+}
+
+.img{
   width: 250px;
 }
 
@@ -162,6 +166,11 @@
   margin-left: 0px;
   width: 100%;
   text-align: center;
+}
+
+#flyer-input:checked ~.flyer-TP{
+  opacity: 1;
+  padding-top:10px;
 }
 
 .flyer img{
