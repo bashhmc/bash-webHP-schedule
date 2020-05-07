@@ -75,16 +75,6 @@
   color: white;
 }
 
-/*Movie */
-.Movie{
-  height: 450px;
-}
-
-.Movie-YouTube{
-  width:90%;
-  height: 300px;
-}
-
 /* contact--------------------- */
 
  .contact{
@@ -137,7 +127,7 @@
   -webkit-transition:	all 0.6s ease;
 	transition:		all 0.6s ease;
 }
-.flyer:active .flyer-TP{
+.flyer:hover .flyer-TP{
   opacity: 1;
   padding-top:10px;
 }
@@ -188,7 +178,7 @@
 	transition:		all 0.6s ease;
 }
 
-.flyer:active .flyer-TP{
+.flyer:hover .flyer-TP{
   opacity: 1;
   padding-top:10px;
 }
