@@ -127,10 +127,6 @@
   -webkit-transition:	all 0.6s ease;
 	transition:		all 0.6s ease;
 }
-.flyer:hover .flyer-TP{
-  opacity: 1;
-  padding-top:10px;
-}
 	
 }
 @media (max-width:380px) {
@@ -178,10 +174,6 @@
 	transition:		all 0.6s ease;
 }
 
-.flyer:hover .flyer-TP{
-  opacity: 1;
-  padding-top:10px;
-}
 
 
 /* 共通footer ---------------------------------------------------------------*/
