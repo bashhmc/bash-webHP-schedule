@@ -50,25 +50,16 @@
     white-space:pre;
   }
 
-/* contact--------------------- */
-
- .contact{
-   height: 500px;
- }
-
- .contact p{
-   font-size: 15px;
-   color: white;
-   margin-left: 35px;
- }
-
- .form{
-   padding-left: 20px;
- }
-
-}
-
 @media (max-width:420px) {
+.icon-arrow{
+  padding-left: 10px;
+  float: left;
+}
+  
+.icon{
+  padding: 0px 10px;
+  float: left;
+}
 /*-- schedule--------------------------------------------------------------- */
 .schedules{
   margin-top: 70px;
@@ -106,6 +97,15 @@
 	
 }
 @media (max-width:380px) {
+.icon-arrow{
+  padding-left: 10px;
+  float: left;
+}
+  
+.icon{
+  padding: 0px 10px;
+  float: left;
+}
 /*-- schedule--------------------------------------------------------------- */
  .icon-arrow{
   padding-left: 7px;
