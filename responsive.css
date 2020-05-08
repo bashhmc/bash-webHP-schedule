@@ -107,8 +107,9 @@
   text-align: center;
 }
 
-#flyer-input:checked ~.flyer-TP-smapho{
-  display: inline-block;;
+.flyer:hover .flyer-TP{
+  opacity: 1;
+  padding-top:10px;
 }
 
 .img{
@@ -153,8 +154,9 @@
   text-align: center;
 }
 
-#flyer-input:checked ~.flyer-TP-smapho{
-  display: inline-block;;
+.flyer:hover .flyer-TP{
+  opacity: 1;
+  padding-top:10px;
 }
 
 .flyer img{
